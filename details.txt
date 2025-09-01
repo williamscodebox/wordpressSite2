@@ -10,3 +10,5 @@ WooCommerce
 WooCommerce Paypal Payments
 WooCommerce Stripe Gateway
 wooPayments
+
+

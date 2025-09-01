@@ -7,8 +7,8 @@ metform
 moreConvert Wishlist for WooCommerce
 Vaariation Swatches
 WooCommerce
-WooCommerce Paypal Payments
-WooCommerce Stripe Gateway
+WooCommerce Paypal Payments *** not yet installed
+WooCommerce Stripe Gateway  *** not yet installed
 wooPayments
 
 

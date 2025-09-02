@@ -12,3 +12,4 @@ WooCommerce Stripe Gateway  *** not yet installed
 wooPayments
 
 footer ---> | Powered by [theme_author]
+

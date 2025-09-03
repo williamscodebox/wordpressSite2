@@ -15,4 +15,5 @@ footer ---> | Powered by [theme_author]
 
 bookly for appointments
 cleaning services
+purple color -->  b386e4
 

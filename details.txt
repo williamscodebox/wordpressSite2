@@ -17,3 +17,30 @@ bookly for appointments
 cleaning services
 purple color -->  b386e4
 
+
+
+
+
+
+
+
+___________________custom html in wordpress__________________________
+<style>
+    .icon-box {
+        display: flex;
+        align-items: flex-start; /* Aligns the icon to the top */
+    }
+    .icon-box .icon {
+        margin-bottom: 10px; /* Adjust this value to control the height */
+    }
+</style>
+
+<div class="icon-box">
+    <div class="icon">
+        <img src="icon.png" alt="Icon" />
+    </div>
+    <div class="content">
+        <h3>Title</h3>
+        <p>Description of the icon box.</p>
+    </div>
+</div>

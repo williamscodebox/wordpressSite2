@@ -17,6 +17,10 @@ bookly for appointments
 cleaning services
 purple color -->  b386e4
 
+backup and migration instructions
+https://www.youtube.com/watch?v=y3NNJOScfvg
+
+updraft plugin
 
 
 
